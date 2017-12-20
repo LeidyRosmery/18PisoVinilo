@@ -81,6 +81,7 @@
 ul.list-subcat {
   list-style: none;
   padding: 0;
+  background: #f2f2f2;
 }
 
 li.sub-cat.text-center {
@@ -444,6 +445,6 @@ img.img-garantia {
   }
   .txt-portada {
     font-size: 16px;
-padding: 10px 10px 13px;
+    padding: 12px 10px 15px;
   }
 }
