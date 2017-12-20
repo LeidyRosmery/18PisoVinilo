@@ -215,7 +215,7 @@ a:focus, a:active, a:hover {
 
 .sub-cat {
   border-bottom: 2px solid #b3b3b3;
-  padding: 14px 0;
+  padding: 14px 12px;
 }
 
 .cont-img {
