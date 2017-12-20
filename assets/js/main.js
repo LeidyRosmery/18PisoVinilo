@@ -1,11 +1,5 @@
-$(document).ready(function() {
-  console.log("load");
 
-});
-$(document).ready(function() {
-  /*desktop estilos css */
-
-});
+$('.list-subcat li:last-child').css('border','none');
 
 $('.collapse').on('show.bs.collapse', function() {
 		console.log("abierto");
