@@ -82,6 +82,7 @@ ul.list-subcat {
   list-style: none;
   padding: 0;
   background: #f2f2f2;
+  margin: 0;
 }
 
 li.sub-cat.text-center {
@@ -254,15 +255,15 @@ img.img-garantia {
     line-height: 24px;
   }
   .mb-0 {
-      margin-bottom: 0;
-      margin: 0;
+    margin-bottom: 0;
+    margin: 0;
   }
   .return {
     padding: 10px 0px 24px;
   }
   .txt-portada {
     font-size: 50px;
-        padding: 10px 33px;
+    padding: 10px 33px;
   }
   .portada-img {
     height: 400px;
@@ -305,12 +306,10 @@ img.img-garantia {
     font-size: 26px;
     padding: 16px;
   }
-
-
   .sub-cat {
     border-bottom: none;
     /* padding: 0 30px; */
-        padding: 8px 0;
+    padding: 8px 0;
     padding-left: 30px;
     padding-right: 30px;
   }
@@ -323,7 +322,6 @@ img.img-garantia {
     padding: 13px 0;
     border-radius: 5px;
     list-style: none;
-
   }
   .wrapper-servicios li {
     list-style: none;
@@ -445,6 +443,6 @@ img.img-garantia {
   }
   .txt-portada {
     font-size: 16px;
-    padding: 12px 10px 15px;
+    padding: 12px 10px ;
   }
 }
