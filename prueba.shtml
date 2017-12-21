@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html>
+  <link rel="stylesheet" href="/static/categorias/contenidoEstatico/landings/assets/css/main.css?v=61">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="https://www.sodimac.com.pe/static/styles/content.min.css?vid=3322">
-  <link rel="stylesheet" href="assets/css/main.css">
-  <title>Landing Servicios</title>
-</head>
 <style type="text/css">
   #main.newMainSection>.container {
     padding-right: 0px;
@@ -140,8 +130,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script src="http://www.sodimac.com.pe/static/script/min/plugin/content.min.js?vid=3322"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="assets/js/resize.js?v=7"></script>
-  <script type="text/javascript" src="assets/js/main.js?v=7">
+  <script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/assets/js/resize.js?v=16"></script>
+  <script type="text/javascript" src="/static/categorias/contenidoEstatico/landings/assets/js/main.js?v=16">
   </script>
 </body>
 

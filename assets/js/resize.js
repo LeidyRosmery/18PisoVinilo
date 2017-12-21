@@ -13,7 +13,7 @@ $(window).load( function() {
         }).get(),
         maxHeight = Math.max.apply(null, heights);
       $(".list-subcat").height(maxHeight);
-      $('.cont-interna ').css('background-image', 'url(assets/img/logo-fondo-desktop.png)');
+      $('.cont-interna ').css('background-image', 'url(/static/categorias/contenidoEstatico/landings/assets/img/logo-fondo-desktop.png)');
 
   }
 });
